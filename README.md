@@ -2,6 +2,8 @@
 
 This report provides a comprehensive analysis of mortality trends in Australia from 1921 to 2020. Utilizing a dataset from the [Human Mortality Database](https://mortality.org/Country/Country?cntr=AUS), this analysis examines key metrics such as death rates, life expectancies, and population demographics across various age groups.
 
+This repository contains the work and materials for Assignment 4 of the ETC5450 unit (Advanced R Programming).
+
 ## Objectives
 
 The main objectives of this report are to:
