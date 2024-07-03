@@ -22,5 +22,3 @@ After cloning the project, follow these steps to get started:
 3. Execute the analysis by running `tar_make()` in the console.
 
 These steps will allow you to run the analysis and render the report for viewing.
-
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/kmdmCbhP)
